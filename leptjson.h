@@ -53,7 +53,7 @@ typedef struct lept_value lept_value;
 typedef struct lept_member lept_member;
 
 // 树状数据结构，用来存储JSON解析结果
-struct lept_value{
+struct lept_value {
     union {
         struct { lept_member* m; size_t o_size, o_capacity; };      // object
         struct { lept_value* e; size_t a_size, a_capacity; };       // array

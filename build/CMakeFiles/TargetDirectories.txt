@@ -1,0 +1,4 @@
+/home/ubuntu/project/My-JSON/build/CMakeFiles/leptjson.dir
+/home/ubuntu/project/My-JSON/build/CMakeFiles/leptjson_test.dir
+/home/ubuntu/project/My-JSON/build/CMakeFiles/edit_cache.dir
+/home/ubuntu/project/My-JSON/build/CMakeFiles/rebuild_cache.dir
